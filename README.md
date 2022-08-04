@@ -30,6 +30,6 @@ Shoutout to myself for being epic [@plufmot](https://twitter.com/plufmot "@plufm
 
 I ripped off the formatting of this from https://github.com/Dungeonation/ngio-gms2-api
 
-Shoutout [@Dungeonation](https://twitter.com/dungeonation "@Dungeonation") and Nick Pasto ([@DetermDungeon](https://twitter.com/DetermDungeon "@DetermDungeon")) for guiding me in the right direction to getting this done.
+Shoutout [@Dungeonation](https://twitter.com/dungeonation "@Dungeonation") and Nick Pasto ([@DetermDungeon](https://twitter.com/DetermDungeon "@DetermDungeon")) for pointing me in the right direction to getting this done.
 
 Shoutout [@Stepford](https://twitter.com/Stepf0rd "@Stepford") for hosting the Newgrounds Mobile Game Jam. My game looking like crap on mobile is what made me finally decide to give this a crack.
