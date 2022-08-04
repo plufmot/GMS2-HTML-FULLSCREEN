@@ -6,6 +6,8 @@ Free to use and do whatever you want with it. Credit is appreciated but not nece
 # How to Import Plugin
 Open your GameMaker project and go to Tools > Import Local Package. Select the downloaded .yymps file, Import All, then Import.
 
+If you get an error when importing it you probably downloaded it wrong. Make sure to download it with the download button, not save link as.
+
 # How to Use It
 At the very start of your game add this to the create event
 ```
