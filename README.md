@@ -25,6 +25,9 @@ It's the best place for creatives to be!
 
 [https://www.newgrounds.com/](https://www.newgrounds.com/ "https://www.newgrounds.com/")
 
+# Video Tutorial
+[![YouTube Link](https://img.youtube.com/vi/9Q5SsT8mO7Q/0.jpg)](https://www.youtube.com/embed/9Q5SsT8mO7Q)
+
 # Credits
 Shoutout to myself for being epic [@plufmot](https://twitter.com/plufmot "@plufmot")
 
