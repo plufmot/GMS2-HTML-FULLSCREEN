@@ -11,7 +11,7 @@ If you get an error when importing it you probably downloaded it wrong. Make sur
 # How to Use It
 At the very start of your game add this to the create event
 ```
-if (!instance_exists(obj_HTML_FS)) { instance_create_depth(x,y,depth,obj_HTML_FS); }
+if (os_browser != browser_not_a_browser && !instance_exists(obj_HTML_FS)) { instance_create_depth(x,y,depth,obj_HTML_FS); }
 ```
 You can now press F to call **HTML_FS_canvas_fullscreen()** which is included in the script **scr_HTML_FS** already. 
 
